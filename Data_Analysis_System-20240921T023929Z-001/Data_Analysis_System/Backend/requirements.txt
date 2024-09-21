@@ -1,0 +1,10 @@
+pandas
+groq
+matplotlib
+numpy
+scipy
+scikit-learn
+seaborn
+plotly
+bokeh
+altair
